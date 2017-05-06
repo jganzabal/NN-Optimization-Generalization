@@ -1,3 +1,7 @@
+# Code from this stackoverflow thread:
+# http://stackoverflow.com/questions/29888233/how-to-visualize-a-neural-network
+# 
+
 from matplotlib import pyplot
 from math import cos, sin, atan
 
